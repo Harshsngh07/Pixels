@@ -7,7 +7,7 @@
 <img src="images/ss2.jpg" alt="ss2" />
 </p>
 
-<p>See Demo <a href="https://pixels-hs.netilfy.app">here</a>
+<p>See Demo <a href="https://pixels-hs.netlify.app/">here</a>
 
 
 
