@@ -6,3 +6,11 @@
 &nbsp;
 <img src="images/ss2.jpg" alt="ss2" />
 </p>
+
+<p>See Demo <a href="https://pixels-hs.netilfy.app">here</a>
+
+
+<h4>LICENSE<h4>
+MIT
+
+<p>&copy; Harsh Singh</p>
