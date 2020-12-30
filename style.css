@@ -49,6 +49,10 @@ header {
   cursor: pointer;
 }
 
+.submit-btn{
+  font-family : "Product Sans Regular";
+}
+
 .gallery-info {
   display: flex;
   justify-content: space-between;
